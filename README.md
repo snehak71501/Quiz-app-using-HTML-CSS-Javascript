@@ -1,20 +1,19 @@
 
-# Login-page-using-HTML-CSS-JAVASCRIPT
+# Quiz-app-using-HTML-CSS-Javascript
 # Description 📝
-Simple, responsive BMI (Body Mass Index) calculator that calculates the BMI based on the user's height in centimeters and weight in kilograms. The calculator then categorizes the BMI result into underweight, normal weight, or overweight.
+This is a simple quiz application built using HTML5, CSS3, and JavaScript. The quiz consists of multiple-choice questions where users can test their knowledge on JavaScript fundamentals.
 # Features ✨
-- User can input weight in kilograms and height in centimeters.
-* Calculates the BMI based on the input values.
-+ Provides the BMI result with two decimal precision.
-- Categorizes the BMI result as underweight, normal weight, or overweight.
-* Validates input to ensure only positive numerical values are accepted.
+- Responsive Design: The quiz app is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
+* Interactive Interface: Users can select their answers by clicking on radio buttons and submit their choices.
++ Immediate Feedback: After submitting an answer, users immediately see whether their answer was correct.
+- Quiz Completion: The quiz concludes after all questions have been answered, displaying the total score and a completion message.
 # How to Use 🚀
-1. Open the BMI Calculator: Visit the live demo URL.
-2. Enter your weight in kilograms: Ensure it's a positive number.
-3. Enter your height in centimeters: Ensure it's a positive number.
-4. Click "Calculate BMI": View your BMI and its category.
+1. Access the Quiz App: Visit the live demo URL.
+2. Answer Questions.
+3. Submit Your Answer.
+4. Check Feedback.
 # Usage 🖥️
-You can access the bmi calculator by opening the index.html file in a web browser. You can also integrate this bmi calculator into your web projects by including the necessary HTML, CSS, and JavaScript files.
+You can access the quiz questions by opening the index.html file in a web browser. You can also integrate this bmi calculator into your web projects by including the necessary HTML, CSS, and JavaScript files.
 # Technologies Used 💻
 HTML5
 
