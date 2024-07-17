@@ -21,7 +21,7 @@ CSS3
 
 Javascript
 # Demo 🎮
-You can try the login page live by visiting the [Demo](https://snehak71501.github.io/Quiz-app-using-HTML-CSS-Javascript/).
+You can try the quiz app live by visiting the [Demo](https://snehak71501.github.io/Quiz-app-using-HTML-CSS-Javascript/).
 # Author 📣
 Sneha Bai 
 - Github: snehak71501
